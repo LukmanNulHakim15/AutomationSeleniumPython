@@ -1,0 +1,9 @@
+Belajar selenium 2
+Locating Element adalah mencari sebuah element dari sebuah web.
+Locating Element terbagi dua yaitu private methods dan locating methods.
+-Private methods adalah metode untuk menemukan element tersebut
+-Private methods terbagi 2 yaitu find_element dan find_elements
+-Kalo find_element ialah mencari single element dilanjutkan dengan action
+-Sedangkan find_elements ialah mencari multiple element akan menghasilkan / me-return sebuah list
+*Locating methods adalah mencari element dengan atribut tertentu seperti by id, by name, by link, 
+by tag name, by class name, by css selector, by XPath
